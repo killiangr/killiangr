@@ -7,13 +7,14 @@ I'm a programming student at EFREI Paris
 * 🌍  I'm based in France
 * 🏫  I study at EFREI Paris. I'm in M1 Software Engineering
 * ✉️  You can contact me at [killian.graindorge@gmail.com](mailto:vetrivel.galaxy@gmai.com)
-* 🧠  I'm learning React, C#, C++, Python and Java
-* 🤝  I'm open to collaborating on Full Stack Web Developement
+* 🧠  I'm learning Js, Python, PHP, Java
+* 🤝  I'm open to collaborating on Full Stack Web/App Developement
 
 ### Skills
 
 <p align="left">
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg](https://www.google.com/search?q=logo+php+png&tbm=isch&ved=2ahUKEwj6zrHz7f37AhWIxoUKHRRZDdwQ2-cCegQIABAA&oq=logo+php+png&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BAgAEB5QAFiaAmDiA2gAcAB4AIAB5gGIAbYDkgEDMi0ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=4D6cY_reG4iNlwSUsrXgDQ&bih=714&biw=1536&rlz=1C1VDKB_frFR933FR933#imgrc=8tz0YNvHgYVd_M)" width="36" height="36" alt="PHP" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
