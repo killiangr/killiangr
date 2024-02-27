@@ -5,9 +5,9 @@ I'm a programming student at EFREI Paris
 ------------------------
 
 * 🌍  I'm based in France
-* 🏫  I study at EFREI Paris. I'm in M1 Software Engineering
+* 🏫  I study at EFREI Paris. I'm in M2 Software Engineering
 * ✉️  You can contact me at [killian.graindorge@gmail.com](mailto:vetrivel.galaxy@gmai.com)
-* 🧠  I'm learning Python, C++, PHP and Javascript
+* 🧠  I'm learning Python, C++, Java, PHP and Javascript
 * 🤝  I'm open to collaborating on Full Stack Web/App Developement
 
 ### Skills
